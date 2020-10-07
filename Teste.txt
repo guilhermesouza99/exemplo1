@@ -3,3 +3,4 @@ Exemplo
 Alteração 1 :
 
 	teste
+	verificado
